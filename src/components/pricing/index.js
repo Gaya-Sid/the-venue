@@ -8,9 +8,9 @@ class Pricing extends Component {
     prices: [100, 150, 250],
     positions: ['Economy', 'Premium', 'VIP'],
     desc: [
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores obcaecati natus maiores aspernatur sint corrupti.',
-      'Lorem ipsum dolor sit amet consectetur adipisicing elit. At dignissimos error consectetur cum sed ullam deleniti dolorum.',
-      'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sit ratione repudiandae deleniti, labore sapiente earum, quasi.'
+      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores obcaecati natus maiores aspernatur sint.',
+      'Lorem ipsum dolor sit amet consectetur adipisicing elit. At dignissimos error consectetur cum sed fdesg.',
+      'Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sit ratione repudiandae deleniti, labore sapiente .'
     ],
     links: ['1','2','3'],
     delay: [500, 0, 500]
